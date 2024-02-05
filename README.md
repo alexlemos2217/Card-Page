@@ -1,5 +1,5 @@
 # Card-Page
-Webpage inspired by the artist The Weekend using HTML and CSS
+Webpage inspired by the artist The Weeknd using HTML and CSS
 
 [![demo2.png](https://i.postimg.cc/PfpDtdFB/demo2.png)](https://postimg.cc/vDyThwyz)
 
